@@ -70,7 +70,5 @@ Before creating the Power BI dashboard, **Python** was used to clean and analyze
 ## ✨ Conclusion
 This dashboard provides the **cafe management** and **marketing team** with actionable insights to improve business performance, customer engagement, and sales growth. 
 
----
 
-### 🎉 If you find this useful, feel free to **star this repo** and **connect with me on GitHub!**
 
