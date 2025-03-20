@@ -1,7 +1,7 @@
 # ☕ Cafe Sales Insight Dashboard
 
 ## 📚 Overview
-This **Power BI Dashboard** provides a comprehensive analysis of the cafe's sales performance, customer trends, and business insights. By leveraging key sales metrics, the dashboard helps stakeholders identify opportunities for growth, optimize operations, and implement data-driven marketing strategies.
+This Power BI Dashboard offers a detailed view of the cafe's sales performance, customer behavior, and business trends. It enables clients to explore key sales metrics, identify growth opportunities, optimize operations, and make informed, data-driven decisions.
 
 ## 🔍 Data Cleaning & Analysis in Python
 Before creating the Power BI dashboard, **Python** was used to clean and analyze the cafe sales data. Key steps include:
