@@ -19,7 +19,7 @@ Before creating the Power BI dashboard, **Python** was used to clean and analyze
    - Suggested **optimized staffing and promotional timing**.  
 
 ## 🌟 Dashboard Preview
-![Cafe Sales Dashboard](Cafesales/dashboard.png)
+![Cafe Sales Dashboard](Cafesales/dashboard.JPG)
 
 ## 📊 Key Features & Insights
 
